@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pitchperfect.clodhost.com/sitemap.xml
